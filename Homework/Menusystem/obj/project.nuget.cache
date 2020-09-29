@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qDUoBuSVCS2YVr3Cc0rUynRzWRhIDuQ08DoGVdBA/btzCDoalVkU/rTR4lahPqIzhEVlCjCgQXbR+Z9GkevC0A==",
+  "dgSpecHash": "ZVahT7TsIEePgI17itU+0t/parIOZ4YOAxjTgm9WpR3TKlZYY0h7Q9D6iWXtfbceLysEB1jn8pk2r/whrr4abg==",
   "success": true,
-  "projectFilePath": "E:\\C#\\icd0008-2020f\\Homework\\Menusystem\\Menusystem.csproj",
+  "projectFilePath": "E:\\C#\\icd0008-2020f\\Homework\\MenuSystem\\MenuSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

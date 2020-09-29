@@ -7,6 +7,30 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="Homework.csproj" t="IncludeRecursive" />
       <e p="Homework.sln" t="IncludeFlat" />
+      <e p="MenuSystem" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Menu.cs" t="Include" />
+        <e p="MenuItem.cs" t="Include" />
+        <e p="MenuSystem.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p=".NETStandard,Version=v2.1.AssemblyAttributes.cs" t="Include" />
+              <e p="MenuSystem.AssemblyInfo.cs" t="Include" />
+              <e p="MenuSystem.AssemblyInfoInputs.cache" t="Include" />
+              <e p="MenuSystem.assets.cache" t="Include" />
+              <e p="MenuSystem.csprojAssemblyReference.cache" t="Include" />
+            </e>
+          </e>
+          <e p="MenuSystem.csproj.nuget.dgspec.json" t="Include" />
+          <e p="MenuSystem.csproj.nuget.g.props" t="Include" />
+          <e p="MenuSystem.csproj.nuget.g.targets" t="Include" />
+          <e p="project.assets.json" t="Include" />
+          <e p="project.nuget.cache" t="Include" />
+          <e p="project.packagespec.json" t="Include" />
+          <e p="rider.project.restore.info" t="Include" />
+        </e>
+      </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp3.1" t="Include">

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Menusystem
+namespace Homework
 {
     class Program
     {
