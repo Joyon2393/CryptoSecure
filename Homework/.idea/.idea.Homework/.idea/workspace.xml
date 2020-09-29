@@ -9,60 +9,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f69cc387-4ee6-4525-b912-5b14c9b041c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menusystem/bin/Debug/netstandard2.1/MenuSystem.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menusystem/bin/Debug/netstandard2.1/MenuSystem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menusystem/bin/Debug/netstandard2.1/MenuSystem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menusystem/obj/Debug/netstandard2.1/MenuSystem.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menusystem/obj/Debug/netstandard2.1/MenuSystem.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menusystem/obj/Debug/netstandard2.1/MenuSystem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menusystem/obj/Debug/netstandard2.1/MenuSystem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Homework.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Homework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Homework.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Homework.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Homework.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Homework.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/MenuSystem.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/MenuSystem.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.icd0008-2020f.dir/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Homework.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Homework.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menusystem/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Menusystem/Menu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menusystem/MenuItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Menusystem/MenuItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menusystem/obj/Debug/netstandard2.1/MenuSystem.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Menusystem/obj/Debug/netstandard2.1/MenuSystem.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Homework.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Homework.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Homework.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601368880541</updated>
       <workItem from="1601368907213" duration="9949000" />
-      <workItem from="1601395734112" duration="864000" />
+      <workItem from="1601395734112" duration="1820000" />
     </task>
     <servers />
   </component>
