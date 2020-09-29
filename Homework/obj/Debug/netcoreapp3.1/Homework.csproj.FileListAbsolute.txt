@@ -1,0 +1,16 @@
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.csprojAssemblyReference.cache
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\MenuSystem.dll
+E:\C#\icd0008-2020f\Homework\bin\Debug\netcoreapp3.1\MenuSystem.pdb
+E:\C#\icd0008-2020f\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CopyComplete

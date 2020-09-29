@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MenuSystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MenuSystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MenuSystem.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MenuSystem/1.0.0": {
+      "type": "project",
+      "path": "MenuSystem/MenuSystem.csproj",
+      "msbuildProject": "MenuSystem/MenuSystem.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MenuSystem >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ahjoyo\\.nuget\\packages\\": {}
@@ -30,7 +49,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\C#\\icd0008-2020f\\Homework\\MenuSystem\\MenuSystem.csproj": {
+              "projectPath": "E:\\C#\\icd0008-2020f\\Homework\\MenuSystem\\MenuSystem.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

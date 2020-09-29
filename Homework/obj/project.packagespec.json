@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "E:\\C#\\icd0008-2020f\\Homework\\MenuSystem\\MenuSystem.csproj": {
+            "projectPath": "E:\\C#\\icd0008-2020f\\Homework\\MenuSystem\\MenuSystem.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

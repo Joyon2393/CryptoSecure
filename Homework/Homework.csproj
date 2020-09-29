@@ -5,4 +5,29 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="MenuSystem\MenuItem.cs" />
+      <Compile Remove="MenuSystem\Menu.cs" />
+      <Compile Remove="MenuSystem\obj\**" />
+      <Compile Remove="MenuSystem\bin\**" />
+      <Compile Remove="MenuSystem\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="MenuSystem\obj\**" />
+      <EmbeddedResource Remove="MenuSystem\bin\**" />
+      <EmbeddedResource Remove="MenuSystem\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="MenuSystem\obj\**" />
+      <None Remove="MenuSystem\bin\**" />
+      <None Remove="MenuSystem\**" />
+      <None Remove=".gitignore.txt" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="MenuSystem\MenuSystem.csproj" />
+    </ItemGroup>
+
 </Project>
