@@ -1,9 +1,0 @@
-E:\C#\icd0008-2020f\Homework\MenuSystem\bin\Debug\netstandard2.1\MenuSystem.deps.json
-E:\C#\icd0008-2020f\Homework\MenuSystem\bin\Debug\netstandard2.1\MenuSystem.dll
-E:\C#\icd0008-2020f\Homework\MenuSystem\bin\Debug\netstandard2.1\MenuSystem.pdb
-E:\C#\icd0008-2020f\Homework\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.csprojAssemblyReference.cache
-E:\C#\icd0008-2020f\Homework\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.AssemblyInfoInputs.cache
-E:\C#\icd0008-2020f\Homework\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.AssemblyInfo.cs
-E:\C#\icd0008-2020f\Homework\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.csproj.CoreCompileInputs.cache
-E:\C#\icd0008-2020f\Homework\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.dll
-E:\C#\icd0008-2020f\Homework\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.pdb
