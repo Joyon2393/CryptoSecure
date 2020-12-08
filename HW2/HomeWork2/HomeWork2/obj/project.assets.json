@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Web Sec\\HW2\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
+      "projectUniqueName": "E:\\Websec\\icd0008-2020f\\HW2\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
       "projectName": "HomeWork2",
-      "projectPath": "E:\\Web Sec\\HW2\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
+      "projectPath": "E:\\Websec\\icd0008-2020f\\HW2\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
       "packagesPath": "C:\\Users\\ahjoyo\\.nuget\\packages\\",
-      "outputPath": "E:\\Web Sec\\HW2\\HomeWork2\\HomeWork2\\obj\\",
+      "outputPath": "E:\\Websec\\icd0008-2020f\\HW2\\HomeWork2\\HomeWork2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahjoyo\\AppData\\Roaming\\NuGet\\NuGet.Config"
