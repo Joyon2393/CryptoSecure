@@ -23,17 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac2dbfcf-c8ff-4478-82d2-1a90c8ddc45d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW4/WebApplication/Domain/Domain.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW4/WebApplication/RsaConsole/RsaConsole.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/.idea/.idea.HomeWork2/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/HomeWork2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/HomeWork2.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../HW2/HomeWork2/HomeWork2/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.homework3/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.homework3/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.homework3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +62,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -96,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607412086583</updated>
       <workItem from="1607412095430" duration="3857000" />
-      <workItem from="1607434732458" duration="856000" />
+      <workItem from="1607434732458" duration="7101000" />
+      <workItem from="1608114663516" duration="118000" />
     </task>
     <servers />
   </component>
@@ -121,22 +120,26 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1607435327171">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="80" key="GridCell.Tab.0.bottom" timestamp="1607759515760">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435327171" />
-    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1607435327170">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="80" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607759515760" />
+    <state width="1877" height="441" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435722617" />
+    <state width="1493" height="80" key="GridCell.Tab.0.center" timestamp="1607759515760">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435327170" />
-    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1607435327170">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="80" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607759515760" />
+    <state width="1877" height="441" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435722617" />
+    <state width="1493" height="80" key="GridCell.Tab.0.left" timestamp="1607759515759">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435327170" />
-    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1607435327171">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="80" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607759515759" />
+    <state width="1877" height="441" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435722617" />
+    <state width="1493" height="80" key="GridCell.Tab.0.right" timestamp="1607759515760">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435327171" />
+    <state width="1493" height="80" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607759515760" />
+    <state width="1877" height="441" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607435722617" />
     <state x="2472" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1607412086777">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

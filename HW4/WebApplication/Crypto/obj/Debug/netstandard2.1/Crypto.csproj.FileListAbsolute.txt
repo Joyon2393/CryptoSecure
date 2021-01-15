@@ -1,0 +1,9 @@
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\bin\Debug\netstandard2.1\Crypto.deps.json
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\bin\Debug\netstandard2.1\Crypto.dll
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\bin\Debug\netstandard2.1\Crypto.pdb
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\obj\Debug\netstandard2.1\Crypto.csprojAssemblyReference.cache
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\obj\Debug\netstandard2.1\Crypto.AssemblyInfoInputs.cache
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\obj\Debug\netstandard2.1\Crypto.AssemblyInfo.cs
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\obj\Debug\netstandard2.1\Crypto.csproj.CoreCompileInputs.cache
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\obj\Debug\netstandard2.1\Crypto.dll
+E:\Websec\icd0008-2020f\HW4\WebApplication\Crypto\obj\Debug\netstandard2.1\Crypto.pdb

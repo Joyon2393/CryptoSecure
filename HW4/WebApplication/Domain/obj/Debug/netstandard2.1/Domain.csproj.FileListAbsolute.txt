@@ -1,0 +1,9 @@
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Websec\icd0008-2020f\HW4\WebApplication\Domain\obj\Debug\netstandard2.1\Domain.pdb

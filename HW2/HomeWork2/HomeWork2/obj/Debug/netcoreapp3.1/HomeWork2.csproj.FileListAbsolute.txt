@@ -11,3 +11,16 @@ E:\Web Sec\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csproj.Core
 E:\Web Sec\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.dll
 E:\Web Sec\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.pdb
 E:\Web Sec\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.genruntimeconfig.cache
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.exe
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.deps.json
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.json
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.dev.json
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.dll
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.pdb
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csprojAssemblyReference.cache
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfoInputs.cache
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfo.cs
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csproj.CoreCompileInputs.cache
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.dll
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.pdb
+E:\Websec\icd0008-2020f\HW2\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.genruntimeconfig.cache
