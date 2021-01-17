@@ -113,6 +113,10 @@ namespace WebApplication.Controllers
             {
                 return NotFound();
             }
+            if (!IdExists(id))
+            {
+                return RedirectToAction("Index");
+            }
 
             var rsa = await _context.Rsa.FindAsync(id);
             if (rsa == null)
@@ -254,6 +258,10 @@ namespace WebApplication.Controllers
             {
                 return NotFound();
             }
+            if (!IdExists(id))
+            {
+                return RedirectToAction("Index");
+            }
 
             ValidateRsa(rsa);
 
@@ -313,7 +321,11 @@ namespace WebApplication.Controllers
             {
                 return NotFound();
             }
-
+            if (!IdExists(id))
+            {
+                return RedirectToAction("Index");
+            }
+          
             var rsa = await _context.Rsa
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (rsa == null)
@@ -329,7 +341,10 @@ namespace WebApplication.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            // TODO: .where(c => c.Id == id && c.UserId == GetUserId()
+            if (!IdExists(id))
+            {
+                return RedirectToAction("Index");
+            }
             var rsa = await _context.Rsa.FindAsync(id);
 
             _context.Rsa.Remove(rsa);
@@ -340,6 +355,11 @@ namespace WebApplication.Controllers
         private bool RsaExists(int id)
         {
             return _context.Rsa.Any(e => e.Id == id);
+        }
+
+        private bool IdExists(int? id)
+        {
+            return _context.Rsa.Any(e => e.Id == id && e.UserId == GetUserId());
         }
     }
 }

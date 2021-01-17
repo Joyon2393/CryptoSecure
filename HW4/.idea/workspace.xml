@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="688db03f-7a23-4258-9488-77c42451ace5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebApplication/Domain/Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/HomeWork2/.idea/.idea.HomeWork2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW2/HomeWork2/HomeWork2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/HomeWork2/HomeWork2/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/HomeWork2/HomeWork2/obj/Debug/netcoreapp3.1/HomeWork2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW3/homework3/.idea/.idea.homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW3/homework3/.idea/.idea.homework3/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="688db03f-7a23-4258-9488-77c42451ace5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608114489166</updated>
       <workItem from="1608114490216" duration="4000" />
+      <workItem from="1610897442175" duration="4000" />
     </task>
     <servers />
   </component>

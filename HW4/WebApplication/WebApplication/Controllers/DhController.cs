@@ -87,6 +87,10 @@ namespace WebApplication.Controllers
             {
                 return NotFound();
             }
+            if (!IdExists(id))
+            {
+                return RedirectToAction("Index");
+            }
 
             var dh = await _context.Dh.FindAsync(id);
             if (dh == null)
@@ -106,6 +110,10 @@ namespace WebApplication.Controllers
             if (id != dh.Id)
             {
                 return NotFound();
+            }
+            if (!IdExists(id))
+            {
+                return RedirectToAction("Index");
             }
 
             ValidateDh(dh);
@@ -148,6 +156,10 @@ namespace WebApplication.Controllers
             if (id == null)
             {
                 return NotFound();
+            }
+            if (!IdExists(id))
+            {
+                return RedirectToAction("Index");
             }
 
             var dh = await _context.Dh
@@ -288,6 +300,10 @@ namespace WebApplication.Controllers
         private bool DhExists(int id)
         {
             return _context.Dh.Any(e => e.Id == id);
+        }
+        private bool IdExists(int? id)
+        {
+            return _context.Rsa.Any(e => e.Id == id && e.UserId == GetUserId());
         }
     }
 }
